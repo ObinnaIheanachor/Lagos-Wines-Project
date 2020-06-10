@@ -1,4 +1,4 @@
-# Lagos Wines Project
+# Lagos Wines Project ([Resagratia's](https://resagratia.com/) Second Open Analytics Project for RESA Academy)
 
 [![Demo Lagos Wines App](https://github.com/ObinnaIheanachor/Lagos-Wines-Project/blob/master/video-demo/Main%20Wine%20Video.gif)](https://youtu.be/nXM0SkO97DI)
 
