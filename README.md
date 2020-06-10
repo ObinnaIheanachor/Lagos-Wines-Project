@@ -3,7 +3,8 @@
 [![Demo Lagos Wines App](https://github.com/ObinnaIheanachor/Lagos-Wines-Project/blob/master/video-demo/Main%20Wine%20Video.gif)](https://youtu.be/nXM0SkO97DI)
 
 This repository contains files used in creating a Power BI report which will be developed into a web app that helps wine consumers in Lagos, Nigeria purchase wines at the best prices.
-The data was gotten using web scraping and the extacted data was then preprocessed and analyzed in Power BI.
+
+The data was gotten using web scraping and the extracted data was then preprocessed and analyzed in Power BI.
 
 The winestores analyzed include [Konga](https://www.konga.com/category/wines-2004?page=1), [Drinks In Lagos](https://www.drinksinlagos.com/), [DrinksNG](https://www.drinks.ng/shop/wine/), [Jumia](https://www.jumia.com.ng/wines/), [Cellar Central](https://www.cellarcentral.ng/index.php?_route_=wines&page=1), and [WineHouse Nigeria](https://winehousenigeria.com/product-category/wine/).
 
