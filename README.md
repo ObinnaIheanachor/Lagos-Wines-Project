@@ -11,5 +11,6 @@ The winestores analyzed include [Konga](https://www.konga.com/category/wines-200
 ## Power BI Report
 The Power BI report can be found [here](https://github.com/ObinnaIheanachor/Lagos-Wines-Project/blob/master/Power-BI-report/Resa%20Wines%20PBIX%20File%20(1).pbix)
 
+The web app can be accessed [here](https://app.powerbi.com/view?r=eyJrIjoiMzFmNjMyYTItMTA2OC00NTcxLThlNjYtOGE1NmEwYWI1MTA5IiwidCI6ImJjOWFmZGRhLTYwNGItNDU3ZS04ZDYxLWQ4YTNhNDNlNTUxZCIsImMiOjl9)
 ## License
 The contents of this repository are covered under the [MIT License](https://github.com/ObinnaIheanachor/Lagos-Wines-Project/blob/master/License.txt)
